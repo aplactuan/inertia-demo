@@ -1,6 +1,6 @@
 <template>
     <nav>
-        <ul>
+        <ul class="flex">
             <li>
                 <Link
                     href="/"
